@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-21T14:27:52.726Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="kCxiam8RqzJJ6DAZ0WT3" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-21T14:29:34.122Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="KqFIKZrE-un0E7dJ9Acr" version="15.2.9" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="981" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -354,7 +354,7 @@
           <mxGeometry x="1415" y="255" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SHJeWZgr1qHo06KbGQga-81" value="&lt;b&gt;STAFF_UNS&lt;/b&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="570" y="990" width="90" height="30" as="geometry" />
+          <mxGeometry x="560" y="990" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SHJeWZgr1qHo06KbGQga-82" value="&lt;u&gt;NIK&lt;/u&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="660" y="990" width="60" height="30" as="geometry" />
@@ -378,7 +378,7 @@
           <mxGeometry x="1030" y="990" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SHJeWZgr1qHo06KbGQga-92" value="&lt;b&gt;ASN&lt;/b&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="570" y="1090" width="90" height="30" as="geometry" />
+          <mxGeometry x="560" y="1090" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SHJeWZgr1qHo06KbGQga-93" value="&lt;u&gt;NIKasn&lt;/u&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="660" y="1090" width="60" height="30" as="geometry" />
@@ -402,6 +402,9 @@
         </mxCell>
         <mxCell id="SHJeWZgr1qHo06KbGQga-98" value="NIKasn" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1170" y="990" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SHJeWZgr1qHo06KbGQga-100" value="&lt;b&gt;TENAGA_PENDIDIK&lt;/b&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1190" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
