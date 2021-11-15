@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="r_4goBz6NWC6T0t2QKmt" name="Page-1">
-        <mxGraphModel dx="1987" dy="1928" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1987" dy="1669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -177,7 +177,7 @@
                 <mxCell id="43" value="Kota" style="ellipse;whiteSpace=wrap;html=1;align=center;rounded=0;sketch=0;" parent="1" vertex="1">
                     <mxGeometry x="290" y="-380" width="120" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="44" value="Kondisia" style="ellipse;whiteSpace=wrap;html=1;align=center;rounded=0;sketch=0;" parent="1" vertex="1">
+                <mxCell id="44" value="Kondisi" style="ellipse;whiteSpace=wrap;html=1;align=center;rounded=0;sketch=0;" parent="1" vertex="1">
                     <mxGeometry x="290" y="-450" width="120" height="50" as="geometry"/>
                 </mxCell>
                 <mxCell id="45" value="Provinsi" style="ellipse;whiteSpace=wrap;html=1;align=center;rounded=0;sketch=0;" parent="1" vertex="1">
@@ -588,6 +588,9 @@
                 </mxCell>
                 <mxCell id="111" value="d" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;verticalAlign=middle;" parent="1" vertex="1">
                     <mxGeometry x="35" y="410" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="121" value="Kondisi" style="ellipse;whiteSpace=wrap;html=1;align=center;rounded=0;sketch=0;" vertex="1" parent="1">
+                    <mxGeometry x="510" y="-420" width="120" height="50" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
